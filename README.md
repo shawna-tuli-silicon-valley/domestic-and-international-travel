@@ -1,2 +1,1 @@
-# silicon-valley-shopping
-[Shopping]
+
