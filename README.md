@@ -7,9 +7,11 @@
 * Atherton
 * Los Gatos
 * San Francisco
-* Orange County
+* Tustin
+* Irvine
 * Los Angeles
 * San Diego
+* San Bernardino
 * Santa Barbara
 * Orlando
 * London
