@@ -6,6 +6,8 @@
 * Los Altos
 * Atherton
 * Los Gatos
+* Berkeley
+* Sausalito
 * San Francisco
 * Tustin
 * Irvine
