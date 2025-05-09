@@ -9,6 +9,10 @@
 * Berkeley
 * Sausalito
 * San Francisco
+* Santa Clara
+* Menlo Park
+* Daly City
+* Alameda
 * Tustin
 * Irvine
 * Los Angeles
