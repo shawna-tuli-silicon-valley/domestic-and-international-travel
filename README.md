@@ -10,6 +10,10 @@
 * Tustin
 * Irvine
 * Los Angeles
+* Pasadena
+* Burbank
+* Santa Monica
+* Venice
 * San Diego
 * San Bernardino
 * Santa Barbara
