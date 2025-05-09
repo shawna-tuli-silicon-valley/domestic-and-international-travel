@@ -46,6 +46,7 @@
 * Charlotte
 * Fayetteville
 * Waxhaw
+* Asheville
 * Savannah
 * Atlanta
 * Fort Lauderdale
