@@ -9,6 +9,11 @@
 * Berkeley
 * Sausalito
 * San Francisco
+* Redwood City
+* Milpitas
+* Saratoga
+* Monte Sereno
+* Fremont
 * Santa Clara
 * Menlo Park
 * Daly City
