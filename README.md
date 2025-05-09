@@ -23,6 +23,11 @@
 * San Diego
 * San Bernardino
 * Santa Barbara
+* Santa Ana
+* Newport Beach
+* Anaheim
+* Costa Mesa
+* Huntington Beach
 * Orlando
 * London
 * Bloomington
