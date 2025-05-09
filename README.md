@@ -28,7 +28,9 @@
 * Bloomington
 * Las Vegas
 * Charlotte
+* Savannah
 * Atlanta
+* Fort Lauderdale
 * New Delhi
 * Chandigarh
 * Agra
