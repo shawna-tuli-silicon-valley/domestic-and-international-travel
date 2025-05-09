@@ -44,6 +44,8 @@
 * Bloomington
 * Las Vegas
 * Charlotte
+* Fayetteville
+* Waxhaw
 * Savannah
 * Atlanta
 * Fort Lauderdale
