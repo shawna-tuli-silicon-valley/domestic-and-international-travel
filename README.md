@@ -1,9 +1,9 @@
-Silicon Valley, 
-*San Francisco
-*Orange County
-*Los Angeles
-*San Diego
-*Santa Barbara
+* Silicon Valley
+* San Francisco
+* Orange County
+* Los Angeles
+* San Diego
+* Santa Barbara
 *Orlando
 *London
 *Bloomington
