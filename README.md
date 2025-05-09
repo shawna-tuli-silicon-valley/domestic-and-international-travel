@@ -15,6 +15,9 @@
 * Monte Sereno
 * Fremont
 * Santa Clara
+* Woodside
+* Los Altos Hills
+* Hayward
 * Menlo Park
 * Daly City
 * Alameda
