@@ -28,6 +28,8 @@
 * Anaheim
 * Costa Mesa
 * Huntington Beach
+* Laguna Beach
+* Dana Point
 * Orlando
 * London
 * Bloomington
