@@ -63,6 +63,7 @@
 * Charlotte
 * Fayetteville
 * Waxhaw
+* Boone
 * Asheville
 * Savannah
 * Atlanta
