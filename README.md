@@ -56,6 +56,7 @@
 * Manhattan Beach
 * Escondido
 * Orlando
+* St. Augustine
 * London
 * Bloomington
 * Las Vegas
