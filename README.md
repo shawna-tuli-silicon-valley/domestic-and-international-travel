@@ -43,6 +43,17 @@
 * Huntington Beach
 * Laguna Beach
 * Dana Point
+* Seal Beach
+* Inglewood
+* Beverly Hills
+* West Hollywood
+* Pomona
+* Malibu
+* Long Beach
+* Marina del Rey
+* Culver City
+* Manhattan Beach
+* Escondido
 * Orlando
 * London
 * Bloomington
