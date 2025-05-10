@@ -20,6 +20,7 @@
 * Carmel-by-the-Sea
 * Santa Cruz
 * Woodside
+* Gilroy
 * Los Altos Hills
 * Hayward
 * Menlo Park
