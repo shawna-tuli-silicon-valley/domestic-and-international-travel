@@ -65,6 +65,7 @@
 * Waxhaw
 * Boone
 * Asheville
+* Charleston
 * Savannah
 * Atlanta
 * Fort Lauderdale
