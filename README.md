@@ -15,6 +15,10 @@
 * Monte Sereno
 * Fremont
 * Santa Clara
+* Half Moon Bay
+* Capitola
+* Carmel-by-the-Sea
+* Santa Cruz
 * Woodside
 * Los Altos Hills
 * Hayward
