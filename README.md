@@ -20,6 +20,7 @@
 * Carmel-by-the-Sea
 * Santa Cruz
 * Woodside
+* South San Francisco
 * Gilroy
 * Los Altos Hills
 * Hayward
@@ -39,6 +40,7 @@
 * Santa Barbara
 * Santa Ana
 * Newport Beach
+* Garden Grove
 * Anaheim
 * Costa Mesa
 * Huntington Beach
