@@ -10,6 +10,9 @@
 * Sausalito
 * San Francisco
 * Redwood City
+* South Lake Tahoe
+* Tahoe City
+* Truckee
 * Milpitas
 * Saratoga
 * Monte Sereno
@@ -30,6 +33,7 @@
 * San Mateo
 * Tustin
 * Irvine
+* Big Bear Lake
 * Los Angeles
 * Pasadena
 * Burbank
