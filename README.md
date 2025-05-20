@@ -14,6 +14,8 @@
 * Tahoe City
 * Truckee
 * Milpitas
+* Monterey
+* Davis
 * Saratoga
 * Monte Sereno
 * Fremont
