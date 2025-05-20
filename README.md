@@ -19,6 +19,7 @@
 * Saratoga
 * Monte Sereno
 * Fremont
+* Yuba City
 * Santa Clara
 * Half Moon Bay
 * Capitola
