@@ -6,6 +6,7 @@
 * Los Altos
 * Atherton
 * Los Gatos
+* Napa
 * Berkeley
 * Sausalito
 * San Francisco
