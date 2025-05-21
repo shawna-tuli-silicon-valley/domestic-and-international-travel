@@ -75,6 +75,7 @@
 * Waxhaw
 * Boone
 * Asheville
+* Durham
 * Charleston
 * Savannah
 * Atlanta
