@@ -76,6 +76,7 @@
 * Boone
 * Asheville
 * Durham
+* Myrtle Beach
 * Charleston
 * Savannah
 * Atlanta
