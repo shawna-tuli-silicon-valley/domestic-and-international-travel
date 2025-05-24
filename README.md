@@ -65,6 +65,8 @@
 * Culver City
 * Manhattan Beach
 * Escondido
+* Rancho Cucamonga
+* Corona
 * Orlando
 * St. Augustine
 * London
