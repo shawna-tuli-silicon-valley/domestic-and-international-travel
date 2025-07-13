@@ -10,6 +10,8 @@
 * Berkeley
 * Sausalito
 * San Francisco
+* Folsom
+* Sacramento
 * Redwood City
 * South Lake Tahoe
 * Tahoe City
