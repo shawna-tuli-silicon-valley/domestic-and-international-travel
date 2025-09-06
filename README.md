@@ -95,3 +95,4 @@
 * D.C.
 * Seattle
 * Bellevue
+* Puerto Vallarta
